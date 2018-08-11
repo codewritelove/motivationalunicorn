@@ -3,8 +3,6 @@ import random
 from discord.ext.commands import Bot
 BOT_PREFIX = ("?", "!")
 
-TOKEN="NDY2NzU3MzU0MDA5MTMzMDk2.Dk5KRQ.wceTI9pweETfGwo9G-I0Ya4Qf_g"
-
 client=Bot(command_prefix=BOT_PREFIX)
 
 @client.command (name='motivationalunicorn',
