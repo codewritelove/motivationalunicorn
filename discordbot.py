@@ -31,5 +31,5 @@ async def motivational_unicorn():
     await client.say(random.choice(possible_responses))
 
 
-client.run(print(os.environ.get('TOKEN')))
+client.run(print(os.environ.get('TOKEN'))
 
