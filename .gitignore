@@ -1,4 +1,0 @@
-$ echo config.py >> .gitignore
-$ git rm --cached config.py
-rm 'config.py'
-$ git commit -m "Start ignoring config.py"
